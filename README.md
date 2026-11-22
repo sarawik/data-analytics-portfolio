@@ -15,7 +15,7 @@ This portfolio showcases academic and personal projects where I use analytical m
 
 Power BI
 1. [Superstore](Power-BI/Freddys-BI-Cycle)
-2. Freddy's BI-cycle
+2. [Freddy's BI-cycle](Power-BI/Freddys-BI-Cycle)
 
 SQL
 1. z
