@@ -8,14 +8,14 @@ This portfolio showcases academic and personal projects where I use analytical m
 
 **Skills & Tools**
 
-- Power BI: Data visualization, DAX and power query
+- Power BI: Data visualization, DAX, data modeling and power query
 - SQL: Data querying, data manipulation and relational databases
 
 **Projects**
 
 Power BI
-1. x
-2. y
+1. Superstore
+2. Freddy's BI-cycle
 
 SQL
 1. z
