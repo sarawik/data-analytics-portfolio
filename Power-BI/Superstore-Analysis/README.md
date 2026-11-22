@@ -25,17 +25,23 @@ Provides a high-level overview of business performance using aggregated data, ke
 ### 2. Tactical Dashboard
 Focuses on medium-term performance analysis, covering trends and developments over weeks or months. Designed to help identify areas requiring attention and support tactical planning.
 
-![Tactical Dashboard](tactical%20dashboard.png)
+<p align="center">
+  <img src="tactical dashboard.png" width="800">
+</p>
 
 ### 3. Operational Dashboard
 Provides detailed, granular data for day-to-day operational analysis. Enables investigation of individual orders and products to identify specific performance issues.
 
-![Operational Dashboard](operational%20dashboard.png)
+<p align="center">
+  <img src="operational dashboard.png" width="800">
+</p>
 
 ### 4. Summary Dashboard
 Brings together selected key visualizations from the strategic, tactical and operational dashboards, providing an overview of the most important findings.
 
-![Summary Dashboard](summary%20dashboard.png)
+<p align="center">
+  <img src="summary dashboard.png" width="800">
+</p>
 
 ## Key Findings
 
