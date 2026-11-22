@@ -1,6 +1,6 @@
 # data-analytics-portfolio
 
-Welcome to my data analytics portfolio!
+_Welcome to my data analytics portfolio!_
 
 I hold a Master's degree in Banking & Finance and I am currently developing my skills in Business Intelligence and Data Analytics.
 
@@ -14,8 +14,8 @@ This portfolio showcases academic and personal projects where I use analytical m
 **Projects**
 
 Power BI
-1. 
-2. 
+1. x
+2. y
 
 SQL
-1. 
+1. z
