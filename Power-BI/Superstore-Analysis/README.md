@@ -18,7 +18,9 @@ The project involved designing four dashboards, each tailored to different analy
 ### 1. Strategic Dashboard
 Provides a high-level overview of business performance using aggregated data, key performance indicators (KPIs) and long-term trends. Designed to support strategic decision-making.
 
-![Strategic Dashboard](strategic%20dashboard.png)
+<p align="center">
+  <img src="strategic dashboard.png" width="800">
+</p>
 
 ### 2. Tactical Dashboard
 Focuses on medium-term performance analysis, covering trends and developments over weeks or months. Designed to help identify areas requiring attention and support tactical planning.
