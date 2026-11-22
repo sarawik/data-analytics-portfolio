@@ -57,7 +57,7 @@ The analysis demonstrated how profitability issues identified at a regional leve
 
 ## Project Files
 
-- `Superstore.pbix` – Interactive Power BI report
+- `Superstore group-project.pbix`(Superstore group-project.pbix) – Interactive Power BI report
 - `strategic-dashboard.png` – Strategic dashboard
 - `tactical-dashboard.png` – Tactical dashboard
 - `operational-dashboard.png` – Operational dashboard
